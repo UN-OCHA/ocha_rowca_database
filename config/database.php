@@ -2,10 +2,14 @@
 
 use Illuminate\Support\Str;
 
-global $config;
+
 
 // Load configuration from a file outside web root.
-if (file_exists('/srv/www/shared/config.php')) {
+if (file_exists('C:/wamp64/www/sharedchams/ConfigDatabase.php')) {
+    global $config;
+    require_once('C:/wamp64/www/sharedchams/ConfigDatabase.php');
+    
+
     return [
 
         /*
@@ -50,11 +54,11 @@ if (file_exists('/srv/www/shared/config.php')) {
             'mysql' => [
                 'driver' => 'mysql',
                 'url' => env('DATABASE_URL'),
-                'host' => env('DB_HOST', '127.0.0.1'),
-                'port' => env('DB_PORT', '3306'),
-                'database' => env('DB_DATABASE', 'ocharowca_database'),
-                'username' => env('DB_USERNAME', 'root'),
-                'password' => env('DB_PASSWORD', ''),
+                'host' => $config['database']['hostname'],
+                'port' => $config['database']['port'],
+                'database' => $config['database']['database'],
+                'username' => $config['database']['username'],
+                'password' => $config['database']['password'],
                 'unix_socket' => env('DB_SOCKET', ''),
                 'charset' => 'utf8mb4',
                 'collation' => 'utf8mb4_unicode_ci',
