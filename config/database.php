@@ -5,9 +5,9 @@ use Illuminate\Support\Str;
 
 
 // Load configuration from a file outside web root.
-if (file_exists('C:/wamp64/www/sharedchams/ConfigDatabase.php')) {
+if (file_exists('/srv/www/shared/config.php')) {
     global $config;
-    require_once('C:/wamp64/www/sharedchams/ConfigDatabase.php');
+    require_once('/srv/www/shared/config.php');
     
 
     return [
