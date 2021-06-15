@@ -1,0 +1,64 @@
+create view client_ors_keyfigures as 
+SELECT 
+loc.location_caption_en as "Location name",
+loc.location_pcode_iso3 as "Location pcode",
+loct.location_type_ors as "Location type 1",
+loct.location_type as "Location type 2",
+
+
+kfc.keyfigure_category_caption_en as "Category name en",
+kfc.keyfigure_category_caption_fr as "Category name fr",
+kfsc.keyfiguresubcategory_caption_en as "Subcategory name en",
+kfsc.keyfiguresubcategory_caption_fr as "Subcategory name fr",
+kfi.keyfigureindicator_caption_en as "Indicator name en",
+kfi.keyfigureindicator_caption_fr as "Indicator name fr",
+kfr."KeyFigureReport_date" as "Reported date",
+kfr.location_id, kfr.keyfigurereport_total, 
+kfr.keyfigurereport_men, kfr.keyfigurereport_women, 
+kfr.keyfigurereport_need_total, kfr.keyfigurereport_need_men, 
+kfr.keyfigurereport_need_women, kfr.keyfigurereport_targeted_total, 
+kfr.keyfigurereport_targeted_men, kfr.keyfigurereport_targeted_women, 
+kfr.keyfigurereport_source
+
+
+FROM public.keyfigure_reports kfr
+left join locations loc on loc.location_id = kfr.location_id
+left join location_types loct on loc.locationtype_id = loct.locationtype_id
+left join keyfigure_indicators kfi on kfr.keyfigureindicator_id = kfi.keyfigureindicator_id
+left join keyfigure_subcategories kfsc on kfi.keyfiguresubcategory_id = kfsc.keyfiguresubcategory_id
+left join keyfigure_categories kfc on kfsc.keyfigure_category_id = kfc.keyfigure_category_id
+
+
+
+create view client_cadre_harmonise as 
+SELECT 
+loc.location_caption_en as "Location name",
+loc.location_pcode_iso3 as "Location pcode",
+loct.location_type_ors as "Location type 1",
+loct.location_type as "Location type 2",
+
+
+kfc.keyfigure_category_caption_en as "Category name en",
+kfc.keyfigure_category_caption_fr as "Category name fr",
+kfsc.keyfiguresubcategory_caption_en as "Subcategory name en",
+kfsc.keyfiguresubcategory_caption_fr as "Subcategory name fr",
+kfi.keyfigureindicator_caption_en as "Indicator name en",
+kfi.keyfigureindicator_caption_fr as "Indicator name fr",
+kfr."KeyFigureReport_date" as "Reported date",
+kfr.location_id, kfr.keyfigurereport_total, 
+kfr.keyfigurereport_men, kfr.keyfigurereport_women, 
+kfr.keyfigurereport_need_total, kfr.keyfigurereport_need_men, 
+kfr.keyfigurereport_need_women, kfr.keyfigurereport_targeted_total, 
+kfr.keyfigurereport_targeted_men, kfr.keyfigurereport_targeted_women, 
+kfr.keyfigurereport_source
+
+
+FROM public.keyfigure_reports kfr
+left join locations loc on loc.location_id = kfr.location_id
+left join location_types loct on loc.locationtype_id = loct.locationtype_id
+left join keyfigure_indicators kfi on kfr.keyfigureindicator_id = kfi.keyfigureindicator_id
+left join keyfigure_subcategories kfsc on kfi.keyfiguresubcategory_id = kfsc.keyfiguresubcategory_id
+left join keyfigure_categories kfc on kfsc.keyfigure_category_id = kfc.keyfigure_category_id
+
+where 
+kfc.keyfigure_category_caption_fr  like 'Sécuri%' and kfsc.keyfiguresubcategory_caption_en = 'Severity level' 

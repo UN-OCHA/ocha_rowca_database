@@ -1,0 +1,2012 @@
+[
+  {
+    "adminName": "Alibori",
+    "adminPcod": "BJ01",
+    "Lat": 11.3251931896,
+    "Long": 2.89804568926
+  },
+  {
+    "adminName": "Atacora",
+    "adminPcod": "BJ02",
+    "Lat": 10.6868783251,
+    "Long": 1.57579135179
+  },
+  {
+    "adminName": "Atlantique",
+    "adminPcod": "BE03",
+    "Lat": 6.46548704939,
+    "Long": 2.26432199776
+  },
+  {
+    "adminName": "Atlantique",
+    "adminPcod": "BJ03",
+    "Lat": 6.68842792521,
+    "Long": 2.18249138077
+  },
+  {
+    "adminName": "Borgou",
+    "adminPcod": "BJ04",
+    "Lat": 9.79871557596,
+    "Long": 2.77335255258
+  },
+  {
+    "adminName": "Collines",
+    "adminPcod": "BJ05",
+    "Lat": 8.1359066073,
+    "Long": 2.20486631183
+  },
+  {
+    "adminName": "Couffo",
+    "adminPcod": "BJ06",
+    "Lat": 6.99974803025,
+    "Long": 1.78095872457
+  },
+  {
+    "adminName": "Donga",
+    "adminPcod": "BJ07",
+    "Lat": 9.32421946616,
+    "Long": 1.80873647491
+  },
+  {
+    "adminName": "Littoral",
+    "adminPcod": "BE08",
+    "Lat": 6.3692755912,
+    "Long": 2.41270985927
+  },
+  {
+    "adminName": "Mono",
+    "adminPcod": "BE09",
+    "Lat": 6.35213213789,
+    "Long": 1.83306899264
+  },
+  {
+    "adminName": "Mono",
+    "adminPcod": "BJ09",
+    "Lat": 6.59690194657,
+    "Long": 1.83266536162
+  },
+  {
+    "adminName": "Oueme",
+    "adminPcod": "BE10",
+    "Lat": 6.42535440198,
+    "Long": 2.58323895491
+  },
+  {
+    "adminName": "Oueme",
+    "adminPcod": "BJ10",
+    "Lat": 6.67900743594,
+    "Long": 2.53050188815
+  },
+  {
+    "adminName": "Plateau",
+    "adminPcod": "BJ11",
+    "Lat": 7.19777859371,
+    "Long": 2.62696547308
+  },
+  {
+    "adminName": "Zou",
+    "adminPcod": "BJ12",
+    "Lat": 7.27838550319,
+    "Long": 2.10734344694
+  },
+  {
+    "adminName": "Boucle du Mouhoun",
+    "adminPcod": "BF46",
+    "Lat": 12.5406628844,
+    "Long": -3.48880962616
+  },
+  {
+    "adminName": "Cascades",
+    "adminPcod": "BF47",
+    "Lat": 10.3517092768,
+    "Long": -4.5704023399
+  },
+  {
+    "adminName": "Centre",
+    "adminPcod": "BF13",
+    "Lat": 12.3225476151,
+    "Long": -1.50227248928
+  },
+  {
+    "adminName": "Centre-Est",
+    "adminPcod": "BF48",
+    "Lat": 11.6053407619,
+    "Long": -0.18605576476
+  },
+  {
+    "adminName": "Centre-Nord",
+    "adminPcod": "BF49",
+    "Lat": 13.2687679722,
+    "Long": -0.97454791505
+  },
+  {
+    "adminName": "Centre-Ouest",
+    "adminPcod": "BF50",
+    "Lat": 11.7923359468,
+    "Long": -2.21858695063
+  },
+  {
+    "adminName": "Centre-Sud",
+    "adminPcod": "BF51",
+    "Lat": 11.5808547146,
+    "Long": -1.21830546123
+  },
+  {
+    "adminName": "Est",
+    "adminPcod": "BF52",
+    "Lat": 12.227397052,
+    "Long": 0.91932417897
+  },
+  {
+    "adminName": "Hauts-Bassins",
+    "adminPcod": "BF53",
+    "Lat": 11.367820095,
+    "Long": -4.33210801327
+  },
+  {
+    "adminName": "Nord",
+    "adminPcod": "BF54",
+    "Lat": 13.4589595608,
+    "Long": -2.28310708143
+  },
+  {
+    "adminName": "Plateau Central",
+    "adminPcod": "BF55",
+    "Lat": 12.4496958227,
+    "Long": -1.14295647496
+  },
+  {
+    "adminName": "Sahel",
+    "adminPcod": "BF56",
+    "Lat": 14.1465637981,
+    "Long": -0.4405708097
+  },
+  {
+    "adminName": "Sud-Ouest",
+    "adminPcod": "BF57",
+    "Lat": 10.4780369582,
+    "Long": -3.23279239595
+  },
+  {
+    "adminName": "Boa Vista",
+    "adminPcod": "CV01",
+    "Lat": 16.0952883873,
+    "Long": -22.8142823009
+  },
+  {
+    "adminName": "Brava",
+    "adminPcod": "CV02",
+    "Lat": 14.8533218376,
+    "Long": -24.7029194449
+  },
+  {
+    "adminName": "Maio",
+    "adminPcod": "CV03",
+    "Lat": 15.2147998222,
+    "Long": -23.1607599732
+  },
+  {
+    "adminName": "Mosteiros",
+    "adminPcod": "CV04",
+    "Lat": 14.9973939372,
+    "Long": -24.3379500377
+  },
+  {
+    "adminName": "Paul",
+    "adminPcod": "CV05",
+    "Lat": 17.1079671777,
+    "Long": -25.0132578671
+  },
+  {
+    "adminName": "Porto Novo",
+    "adminPcod": "CV06",
+    "Lat": 17.0221391723,
+    "Long": -25.1992430118
+  },
+  {
+    "adminName": "Praia",
+    "adminPcod": "CV07",
+    "Lat": 14.9476453652,
+    "Long": -23.5200709954
+  },
+  {
+    "adminName": "Ribeira Brava",
+    "adminPcod": "CV08",
+    "Lat": 16.5972670396,
+    "Long": -24.202973139
+  },
+  {
+    "adminName": "Ribeira Grande",
+    "adminPcod": "CV09",
+    "Lat": 17.1364582434,
+    "Long": -25.1269708706
+  },
+  {
+    "adminName": "Ribeira Grande De Santiago",
+    "adminPcod": "CV10",
+    "Lat": 14.9714054348,
+    "Long": -23.6363700498
+  },
+  {
+    "adminName": "Sal",
+    "adminPcod": "CV11",
+    "Lat": 16.7347949606,
+    "Long": -22.9317759194
+  },
+  {
+    "adminName": "Santa Catarina",
+    "adminPcod": "CV12",
+    "Lat": 15.1028984678,
+    "Long": -23.7074156137
+  },
+  {
+    "adminName": "Santa Catarina Do Fogo",
+    "adminPcod": "CV13",
+    "Lat": 14.8927257023,
+    "Long": -24.3374511163
+  },
+  {
+    "adminName": "Santa Cruz",
+    "adminPcod": "CV14",
+    "Lat": 15.1087421311,
+    "Long": -23.5514150424
+  },
+  {
+    "adminName": "Sao Domingos",
+    "adminPcod": "CV15",
+    "Lat": 15.0165839516,
+    "Long": -23.5221936337
+  },
+  {
+    "adminName": "Sao Filipe",
+    "adminPcod": "CV16",
+    "Lat": 14.9201874867,
+    "Long": -24.430737784
+  },
+  {
+    "adminName": "Sao Lourenco Dos Orgaos",
+    "adminPcod": "CV17",
+    "Lat": 15.0624132619,
+    "Long": -23.5926902568
+  },
+  {
+    "adminName": "Sao Miguel",
+    "adminPcod": "CV18",
+    "Lat": 15.1907413719,
+    "Long": -23.6384150821
+  },
+  {
+    "adminName": "Sao Salvador Do Mundo",
+    "adminPcod": "CV19",
+    "Lat": 15.0882064216,
+    "Long": -23.6287889494
+  },
+  {
+    "adminName": "Sao Vicente",
+    "adminPcod": "CV20",
+    "Lat": 16.8248307824,
+    "Long": -24.9285282135
+  },
+  {
+    "adminName": "Tarrafal",
+    "adminPcod": "CV21",
+    "Lat": 15.2619234016,
+    "Long": -23.7170473007
+  },
+  {
+    "adminName": "Tarrafal de Sao Nicolau",
+    "adminPcod": "CV22",
+    "Lat": 16.5921706634,
+    "Long": -24.3588531985
+  },
+  {
+    "adminName": "Adamaoua",
+    "adminPcod": "CM01",
+    "Lat": 6.84215179357,
+    "Long": 13.125925673
+  },
+  {
+    "adminName": "Centre",
+    "adminPcod": "CM02",
+    "Lat": 4.66768040862,
+    "Long": 11.8270129983
+  },
+  {
+    "adminName": "Est",
+    "adminPcod": "CM03",
+    "Lat": 3.80118336182,
+    "Long": 14.2128226799
+  },
+  {
+    "adminName": "Extreme-Nord",
+    "adminPcod": "CM04",
+    "Lat": 11.0719367279,
+    "Long": 14.5177124687
+  },
+  {
+    "adminName": "Littoral",
+    "adminPcod": "CM05",
+    "Lat": 4.26502748223,
+    "Long": 10.116725932
+  },
+  {
+    "adminName": "Nord",
+    "adminPcod": "CM06",
+    "Lat": 8.46818556012,
+    "Long": 13.9443878879
+  },
+  {
+    "adminName": "Nord-Ouest",
+    "adminPcod": "CM07",
+    "Lat": 6.36980678386,
+    "Long": 10.3626879836
+  },
+  {
+    "adminName": "Ouest",
+    "adminPcod": "CM08",
+    "Lat": 5.50893821423,
+    "Long": 10.6558253167
+  },
+  {
+    "adminName": "Sud",
+    "adminPcod": "CM09",
+    "Lat": 2.75975412875,
+    "Long": 11.5696143212
+  },
+  {
+    "adminName": "Sud-Ouest",
+    "adminPcod": "CM10",
+    "Lat": 5.19483376676,
+    "Long": 9.2891242309
+  },
+  {
+    "adminName": "Bamingui-Bangoran",
+    "adminPcod": "CF51",
+    "Lat": 8.42156081928,
+    "Long": 20.5741275752
+  },
+  {
+    "adminName": "Bangui",
+    "adminPcod": "CF71",
+    "Lat": 4.37554641583,
+    "Long": 18.5705188031
+  },
+  {
+    "adminName": "Basse-Kotto",
+    "adminPcod": "CF61",
+    "Lat": 4.89268442275,
+    "Long": 21.3604134187
+  },
+  {
+    "adminName": "Haut-Mbomou",
+    "adminPcod": "CF63",
+    "Lat": 6.30850507485,
+    "Long": 25.5900062795
+  },
+  {
+    "adminName": "Haute-Kotto",
+    "adminPcod": "CF52",
+    "Lat": 7.46876390893,
+    "Long": 22.9224584405
+  },
+  {
+    "adminName": "KÔö£?«mo",
+    "adminPcod": "CF41",
+    "Lat": 5.79758923346,
+    "Long": 19.2980548853
+  },
+  {
+    "adminName": "Lobaye",
+    "adminPcod": "CF12",
+    "Lat": 4.17265988834,
+    "Long": 17.617985404
+  },
+  {
+    "adminName": "MambÔö£?«rÔö£?«-KadÔö£?«Ôö£??",
+    "adminPcod": "CF21",
+    "Lat": 4.56833642019,
+    "Long": 15.916548923
+  },
+  {
+    "adminName": "Mbomou",
+    "adminPcod": "CF62",
+    "Lat": 5.50222065446,
+    "Long": 23.3907109144
+  },
+  {
+    "adminName": "Nana-Grebizi",
+    "adminPcod": "CF42",
+    "Lat": 7.19048580238,
+    "Long": 19.330655993
+  },
+  {
+    "adminName": "Nana-Mambere",
+    "adminPcod": "CF22",
+    "Lat": 5.69845774493,
+    "Long": 15.3797702541
+  },
+  {
+    "adminName": "Ombella M'Poko",
+    "adminPcod": "CF11",
+    "Lat": 5.11631619464,
+    "Long": 17.9957643228
+  },
+  {
+    "adminName": "Ouaka",
+    "adminPcod": "CF43",
+    "Lat": 6.12730106879,
+    "Long": 20.7491737928
+  },
+  {
+    "adminName": "Ouham",
+    "adminPcod": "CF32",
+    "Lat": 6.91401621987,
+    "Long": 17.8912232386
+  },
+  {
+    "adminName": "Ouham Pende",
+    "adminPcod": "CF31",
+    "Lat": 6.72816225119,
+    "Long": 16.1403842205
+  },
+  {
+    "adminName": "Sangha-Mbaere",
+    "adminPcod": "CF23",
+    "Lat": 3.46126481932,
+    "Long": 16.2933991784
+  },
+  {
+    "adminName": "Vakaga",
+    "adminPcod": "CF53",
+    "Lat": 9.82306422393,
+    "Long": 22.5131382543
+  },
+  {
+    "adminName": "Barh-El-Gazel",
+    "adminPcod": "TD19",
+    "Lat": 14.421230623,
+    "Long": 16.8849984059
+  },
+  {
+    "adminName": "Batha",
+    "adminPcod": "TD01",
+    "Lat": 13.9817111908,
+    "Long": 18.7952795524
+  },
+  {
+    "adminName": "Borkou",
+    "adminPcod": "TD02",
+    "Lat": 17.1809379428,
+    "Long": 18.2212317782
+  },
+  {
+    "adminName": "Chari-Baguirmi",
+    "adminPcod": "TD03",
+    "Lat": 11.2029637358,
+    "Long": 16.3570209665
+  },
+  {
+    "adminName": "Ennedi-Est",
+    "adminPcod": "TD20",
+    "Lat": 17.7785138622,
+    "Long": 23.1249664119
+  },
+  {
+    "adminName": "Ennedi Ouest",
+    "adminPcod": "TD23",
+    "Lat": 18.4120984862,
+    "Long": 21.1363127916
+  },
+  {
+    "adminName": "Guera",
+    "adminPcod": "TD04",
+    "Lat": 11.4895018626,
+    "Long": 18.6321110507
+  },
+  {
+    "adminName": "Hadjer-Lamis",
+    "adminPcod": "TD05",
+    "Lat": 12.513936428,
+    "Long": 16.245091708
+  },
+  {
+    "adminName": "Kanem",
+    "adminPcod": "TD06",
+    "Lat": 15.173778623,
+    "Long": 15.3647396158
+  },
+  {
+    "adminName": "Lac",
+    "adminPcod": "TD07",
+    "Lat": 13.6181145367,
+    "Long": 14.4505806518
+  },
+  {
+    "adminName": "Logone Occidental",
+    "adminPcod": "TD08",
+    "Lat": 8.76472353746,
+    "Long": 15.8635247018
+  },
+  {
+    "adminName": "Logone Oriental",
+    "adminPcod": "TD09",
+    "Lat": 8.20376889492,
+    "Long": 16.4103192211
+  },
+  {
+    "adminName": "Mandoul",
+    "adminPcod": "TD10",
+    "Lat": 8.68927354024,
+    "Long": 17.6073411695
+  },
+  {
+    "adminName": "Mayo-Kebbi Ouest",
+    "adminPcod": "TD12",
+    "Lat": 9.33962395528,
+    "Long": 14.7504149934
+  },
+  {
+    "adminName": "Mayo Kebbi Est",
+    "adminPcod": "TD11",
+    "Lat": 10.1970649352,
+    "Long": 15.5453531091
+  },
+  {
+    "adminName": "Moyen-Chari",
+    "adminPcod": "TD13",
+    "Lat": 9.416880284,
+    "Long": 18.6754248133
+  },
+  {
+    "adminName": "N'Djamena",
+    "adminPcod": "TD18",
+    "Lat": 12.1202656218,
+    "Long": 15.0515899201
+  },
+  {
+    "adminName": "Ouaddai",
+    "adminPcod": "TD14",
+    "Lat": 13.5414065174,
+    "Long": 21.1563389687
+  },
+  {
+    "adminName": "Salamat",
+    "adminPcod": "TD15",
+    "Lat": 10.8096275079,
+    "Long": 20.5830618478
+  },
+  {
+    "adminName": "Sila",
+    "adminPcod": "TD21",
+    "Lat": 12.1400236687,
+    "Long": 21.4419347886
+  },
+  {
+    "adminName": "Tandjile",
+    "adminPcod": "TD16",
+    "Lat": 9.53907661399,
+    "Long": 16.4806417129
+  },
+  {
+    "adminName": "Tibesti",
+    "adminPcod": "TD22",
+    "Lat": 20.7208647248,
+    "Long": 17.523497715
+  },
+  {
+    "adminName": "Wadi Fira",
+    "adminPcod": "TD17",
+    "Lat": 14.9944867968,
+    "Long": 21.4784475514
+  },
+  {
+    "adminName": "Agneby-Tiassa",
+    "adminPcod": "CI03",
+    "Lat": 5.93543878347,
+    "Long": -4.51780307175
+  },
+  {
+    "adminName": "Bafing",
+    "adminPcod": "CI04",
+    "Lat": 8.39162558365,
+    "Long": -7.62816975943
+  },
+  {
+    "adminName": "Bagoue",
+    "adminPcod": "CI05",
+    "Lat": 9.86208059774,
+    "Long": -6.47023025802
+  },
+  {
+    "adminName": "Belier",
+    "adminPcod": "CI06",
+    "Lat": 6.91721797633,
+    "Long": -5.03433394725
+  },
+  {
+    "adminName": "Bere",
+    "adminPcod": "CI07",
+    "Lat": 8.36544671459,
+    "Long": -6.04062209673
+  },
+  {
+    "adminName": "Bounkani",
+    "adminPcod": "CI08",
+    "Lat": 9.16543248752,
+    "Long": -3.44835559344
+  },
+  {
+    "adminName": "Cavally",
+    "adminPcod": "CI09",
+    "Lat": 6.33435400333,
+    "Long": -7.68552918862
+  },
+  {
+    "adminName": "District Autonome D'Abidjan",
+    "adminPcod": "CI01",
+    "Lat": 5.41390416285,
+    "Long": -4.07510148834
+  },
+  {
+    "adminName": "District Autonome De Yamoussoukro",
+    "adminPcod": "CI02",
+    "Lat": 6.85579036493,
+    "Long": -5.26874401922
+  },
+  {
+    "adminName": "Folon",
+    "adminPcod": "CI10",
+    "Lat": 10.109954599,
+    "Long": -7.40503381616
+  },
+  {
+    "adminName": "Gbeke",
+    "adminPcod": "CI11",
+    "Lat": 7.7029149078,
+    "Long": -5.21636642407
+  },
+  {
+    "adminName": "Gbokle",
+    "adminPcod": "CI12",
+    "Lat": 5.26705674108,
+    "Long": -5.97175058542
+  },
+  {
+    "adminName": "Goh",
+    "adminPcod": "CI13",
+    "Lat": 6.21579764515,
+    "Long": -5.87770560033
+  },
+  {
+    "adminName": "Gontougo",
+    "adminPcod": "CI14",
+    "Lat": 7.99070772019,
+    "Long": -3.21274253434
+  },
+  {
+    "adminName": "Grands Ponts",
+    "adminPcod": "CI15",
+    "Lat": 5.36019322294,
+    "Long": -4.77650100022
+  },
+  {
+    "adminName": "Guemon",
+    "adminPcod": "CI16",
+    "Lat": 7.01804755755,
+    "Long": -7.31600644824
+  },
+  {
+    "adminName": "Hambol",
+    "adminPcod": "CI17",
+    "Lat": 8.52044888651,
+    "Long": -4.83841479681
+  },
+  {
+    "adminName": "Haut-Sassandra",
+    "adminPcod": "CI18",
+    "Lat": 7.0360115469,
+    "Long": -6.60346941468
+  },
+  {
+    "adminName": "Iffou",
+    "adminPcod": "CI19",
+    "Lat": 7.46419015305,
+    "Long": -4.06001503367
+  },
+  {
+    "adminName": "Indenie-Djuablin",
+    "adminPcod": "CI20",
+    "Lat": 6.71531039236,
+    "Long": -3.42574760307
+  },
+  {
+    "adminName": "Kabadougou",
+    "adminPcod": "CI21",
+    "Lat": 9.42425518163,
+    "Long": -7.37945502963
+  },
+  {
+    "adminName": "Loh-Djiboua",
+    "adminPcod": "CI22",
+    "Lat": 5.75720096365,
+    "Long": -5.40423358271
+  },
+  {
+    "adminName": "Marahoue",
+    "adminPcod": "CI23",
+    "Lat": 7.08513934111,
+    "Long": -5.89278781561
+  },
+  {
+    "adminName": "Me",
+    "adminPcod": "CI24",
+    "Lat": 5.98917263991,
+    "Long": -3.74325556989
+  },
+  {
+    "adminName": "Moronou",
+    "adminPcod": "CI25",
+    "Lat": 6.60301620783,
+    "Long": -4.23915318547
+  },
+  {
+    "adminName": "N'Zi",
+    "adminPcod": "CI27",
+    "Lat": 6.9737839058,
+    "Long": -4.56073196861
+  },
+  {
+    "adminName": "Nawa",
+    "adminPcod": "CI26",
+    "Lat": 5.85311384962,
+    "Long": -6.66913817579
+  },
+  {
+    "adminName": "Poro",
+    "adminPcod": "CI28",
+    "Lat": 9.41949451066,
+    "Long": -5.83307481475
+  },
+  {
+    "adminName": "San Pedro",
+    "adminPcod": "CI29",
+    "Lat": 5.01444791804,
+    "Long": -7.0435132928
+  },
+  {
+    "adminName": "Sud-Comoe",
+    "adminPcod": "CI30",
+    "Lat": 5.48531712139,
+    "Long": -3.17968918281
+  },
+  {
+    "adminName": "Tchologo",
+    "adminPcod": "CI31",
+    "Lat": 9.50470206845,
+    "Long": -4.82027889665
+  },
+  {
+    "adminName": "Tonkpi",
+    "adminPcod": "CI32",
+    "Lat": 7.47065654566,
+    "Long": -7.82016781629
+  },
+  {
+    "adminName": "Worodougou",
+    "adminPcod": "CI33",
+    "Lat": 8.38051624763,
+    "Long": -6.75750659425
+  },
+  {
+    "adminName": "Bas-Uele",
+    "adminPcod": "CD52",
+    "Lat": 3.6262048092,
+    "Long": 25.1453840823
+  },
+  {
+    "adminName": "Equateur",
+    "adminPcod": "CD41",
+    "Lat": 0.22899018365,
+    "Long": 18.9144648794
+  },
+  {
+    "adminName": "Haut-Katanga",
+    "adminPcod": "CD71",
+    "Lat": -10.4581087252,
+    "Long": 27.8310551194
+  },
+  {
+    "adminName": "Haut-Lomami",
+    "adminPcod": "CD73",
+    "Lat": -8.23658345466,
+    "Long": 25.4290341029
+  },
+  {
+    "adminName": "Haut-Uele",
+    "adminPcod": "CD53",
+    "Lat": 3.34590155261,
+    "Long": 28.588503509
+  },
+  {
+    "adminName": "Ituri",
+    "adminPcod": "CD54",
+    "Lat": 1.75432295404,
+    "Long": 29.4989198608
+  },
+  {
+    "adminName": "Kasai",
+    "adminPcod": "CD92",
+    "Lat": -4.94513468472,
+    "Long": 21.1062499809
+  },
+  {
+    "adminName": "Kasai-Central",
+    "adminPcod": "CD91",
+    "Lat": -6.22638789588,
+    "Long": 22.4893505423
+  },
+  {
+    "adminName": "Kasai-Oriental",
+    "adminPcod": "CD82",
+    "Lat": -6.15072347331,
+    "Long": 23.5186302457
+  },
+  {
+    "adminName": "Kinshasa",
+    "adminPcod": "CD10",
+    "Lat": -4.43590657673,
+    "Long": 15.9084910982
+  },
+  {
+    "adminName": "Kongo-Central",
+    "adminPcod": "CD20",
+    "Lat": -5.28966685454,
+    "Long": 14.321731015
+  },
+  {
+    "adminName": "Kwango",
+    "adminPcod": "CD31",
+    "Lat": -6.43275970999,
+    "Long": 17.8638952554
+  },
+  {
+    "adminName": "Kwilu",
+    "adminPcod": "CD32",
+    "Lat": -4.78252014469,
+    "Long": 18.6549426656
+  },
+  {
+    "adminName": "Lomami",
+    "adminPcod": "CD81",
+    "Lat": -6.21390675559,
+    "Long": 24.6823779673
+  },
+  {
+    "adminName": "Lualaba",
+    "adminPcod": "CD72",
+    "Lat": -9.83837820149,
+    "Long": 23.8940106447
+  },
+  {
+    "adminName": "Mai-Ndombe",
+    "adminPcod": "CD33",
+    "Lat": -2.69566182413,
+    "Long": 18.5287757991
+  },
+  {
+    "adminName": "Maniema",
+    "adminPcod": "CD63",
+    "Lat": -3.08521011925,
+    "Long": 26.4233068971
+  },
+  {
+    "adminName": "Mongala",
+    "adminPcod": "CD44",
+    "Lat": 2.09660861919,
+    "Long": 21.5134594906
+  },
+  {
+    "adminName": "Nord-Kivu",
+    "adminPcod": "CD61",
+    "Lat": -0.61106828068,
+    "Long": 28.7021673296
+  },
+  {
+    "adminName": "Nord-Ubangi",
+    "adminPcod": "CD43",
+    "Lat": 3.86744370057,
+    "Long": 21.0676083294
+  },
+  {
+    "adminName": "Sankuru",
+    "adminPcod": "CD83",
+    "Lat": -3.48229881514,
+    "Long": 23.60498946
+  },
+  {
+    "adminName": "Sud-Kivu",
+    "adminPcod": "CD62",
+    "Lat": -3.2265128303,
+    "Long": 28.2554120214
+  },
+  {
+    "adminName": "Sud-Ubangi",
+    "adminPcod": "CD42",
+    "Lat": 3.09037682713,
+    "Long": 19.3549478677
+  },
+  {
+    "adminName": "Tanganyika",
+    "adminPcod": "CD74",
+    "Lat": -6.56369523615,
+    "Long": 28.1954933268
+  },
+  {
+    "adminName": "Tshopo",
+    "adminPcod": "CD51",
+    "Lat": 0.48122181034,
+    "Long": 25.2072137239
+  },
+  {
+    "adminName": "Tshuapa",
+    "adminPcod": "CD45",
+    "Lat": -0.6675621106,
+    "Long": 21.7564028625
+  },
+  {
+    "adminName": "Annobon",
+    "adminPcod": "GQ98",
+    "Lat": -1.43071183508,
+    "Long": 5.62090468131
+  },
+  {
+    "adminName": "Bioko Norte",
+    "adminPcod": "GQ99",
+    "Lat": 3.67103305443,
+    "Long": 8.79024757237
+  },
+  {
+    "adminName": "Bioko Sur",
+    "adminPcod": "GQ00",
+    "Lat": 3.41329759481,
+    "Long": 8.63803588345
+  },
+  {
+    "adminName": "Centro Sur",
+    "adminPcod": "GQ01",
+    "Lat": 1.47917396661,
+    "Long": 10.4259756547
+  },
+  {
+    "adminName": "Kientem",
+    "adminPcod": "GQ02",
+    "Lat": 2.01224759865,
+    "Long": 10.9499009674
+  },
+  {
+    "adminName": "Littoral",
+    "adminPcod": "GQ03",
+    "Lat": 1.5200595642,
+    "Long": 9.8490767355
+  },
+  {
+    "adminName": "Welenzas",
+    "adminPcod": "GQ04",
+    "Lat": 1.50244063303,
+    "Long": 10.9984236204
+  },
+  {
+    "adminName": "Estuaire",
+    "adminPcod": "GA01",
+    "Lat": 0.30877505792,
+    "Long": 10.0428367046
+  },
+  {
+    "adminName": "Haut-Ogooue",
+    "adminPcod": "GA02",
+    "Lat": -1.33083414218,
+    "Long": 13.7257213809
+  },
+  {
+    "adminName": "Moyen-Ogooue",
+    "adminPcod": "GA03",
+    "Lat": -0.43034593442,
+    "Long": 10.5719966615
+  },
+  {
+    "adminName": "Ngounie",
+    "adminPcod": "GA04",
+    "Lat": -1.61476650587,
+    "Long": 11.1974677899
+  },
+  {
+    "adminName": "Nyanga",
+    "adminPcod": "GA05",
+    "Lat": -3.03133003305,
+    "Long": 11.108409006
+  },
+  {
+    "adminName": "Ogooue-Ivindo",
+    "adminPcod": "GA06",
+    "Lat": 0.47572911011,
+    "Long": 12.853944284
+  },
+  {
+    "adminName": "Ogooue-Lolo",
+    "adminPcod": "GA07",
+    "Lat": -0.85049965164,
+    "Long": 12.6180592573
+  },
+  {
+    "adminName": "Ogooue-Maritime",
+    "adminPcod": "GA08",
+    "Lat": -1.58087887666,
+    "Long": 9.66431003008
+  },
+  {
+    "adminName": "Woleu-Ntem",
+    "adminPcod": "GA09",
+    "Lat": 1.40687538539,
+    "Long": 11.9481866165
+  },
+  {
+    "adminName": "Banjul",
+    "adminPcod": "GM01",
+    "Lat": 13.4504299778,
+    "Long": -16.5963584337
+  },
+  {
+    "adminName": "Basse",
+    "adminPcod": "GM02",
+    "Lat": 13.3898349138,
+    "Long": -14.1666362828
+  },
+  {
+    "adminName": "Brikama",
+    "adminPcod": "GM03",
+    "Lat": 13.2419770992,
+    "Long": -16.4029947014
+  },
+  {
+    "adminName": "Janjanbureh",
+    "adminPcod": "GM04",
+    "Lat": 13.5325679839,
+    "Long": -14.9319854406
+  },
+  {
+    "adminName": "Kanifing",
+    "adminPcod": "GM05",
+    "Lat": 13.4411224658,
+    "Long": -16.6606739849
+  },
+  {
+    "adminName": "Kerewan",
+    "adminPcod": "GM06",
+    "Lat": 13.5048615462,
+    "Long": -16.0254727271
+  },
+  {
+    "adminName": "Kuntaur",
+    "adminPcod": "GM07",
+    "Lat": 13.656033198,
+    "Long": -14.926022912
+  },
+  {
+    "adminName": "Mansa Konko",
+    "adminPcod": "GM08",
+    "Lat": 13.3850069573,
+    "Long": -15.7355511753
+  },
+  {
+    "adminName": "Ahafo",
+    "adminPcod": "GH01",
+    "Lat": 6.91590935124,
+    "Long": -2.45027156238
+  },
+  {
+    "adminName": "Ashanti",
+    "adminPcod": "GH02",
+    "Lat": 6.79944701317,
+    "Long": -1.45694804761
+  },
+  {
+    "adminName": "Bono",
+    "adminPcod": "GH03",
+    "Lat": 7.68925427516,
+    "Long": -2.50053666444
+  },
+  {
+    "adminName": "Bono East",
+    "adminPcod": "GH04",
+    "Lat": 7.88534590479,
+    "Long": -1.07774670894
+  },
+  {
+    "adminName": "Central",
+    "adminPcod": "GH05",
+    "Lat": 5.56760497709,
+    "Long": -1.2153786536
+  },
+  {
+    "adminName": "Eastern",
+    "adminPcod": "GH06",
+    "Lat": 6.41763240291,
+    "Long": -0.44847902868
+  },
+  {
+    "adminName": "Greater Accra",
+    "adminPcod": "GH07",
+    "Lat": 5.80560366598,
+    "Long": 0.04840466654
+  },
+  {
+    "adminName": "Northern",
+    "adminPcod": "GH08",
+    "Lat": 9.46296725364,
+    "Long": -0.28815567075
+  },
+  {
+    "adminName": "Northern East",
+    "adminPcod": "GH09",
+    "Lat": 10.3288075957,
+    "Long": -0.59765021049
+  },
+  {
+    "adminName": "Oti",
+    "adminPcod": "GH10",
+    "Lat": 7.97147078095,
+    "Long": 0.27122985088
+  },
+  {
+    "adminName": "Savannah",
+    "adminPcod": "GH11",
+    "Lat": 9.03544852863,
+    "Long": -1.53381891971
+  },
+  {
+    "adminName": "Upper East",
+    "adminPcod": "GH12",
+    "Lat": 10.778897429,
+    "Long": -0.80429787994
+  },
+  {
+    "adminName": "Upper West",
+    "adminPcod": "GH13",
+    "Lat": 10.4108214325,
+    "Long": -2.2168485737
+  },
+  {
+    "adminName": "Volta",
+    "adminPcod": "GH14",
+    "Lat": 6.42376051104,
+    "Long": 0.54472386631
+  },
+  {
+    "adminName": "Western",
+    "adminPcod": "GH15",
+    "Lat": 5.40039024741,
+    "Long": -2.14781955243
+  },
+  {
+    "adminName": "Western North",
+    "adminPcod": "GH16",
+    "Lat": 6.22246986649,
+    "Long": -2.78797795792
+  },
+  {
+    "adminName": "Boke",
+    "adminPcod": "GN01",
+    "Lat": 11.3554380016,
+    "Long": -13.7679894531
+  },
+  {
+    "adminName": "Conakry",
+    "adminPcod": "GN02",
+    "Lat": 9.61976555424,
+    "Long": -13.5745755647
+  },
+  {
+    "adminName": "Faranah",
+    "adminPcod": "GN03",
+    "Lat": 10.4918430175,
+    "Long": -10.6585543767
+  },
+  {
+    "adminName": "Kankan",
+    "adminPcod": "GN04",
+    "Lat": 10.58611187,
+    "Long": -9.33459252522
+  },
+  {
+    "adminName": "Kindia",
+    "adminPcod": "GN05",
+    "Lat": 10.2139003212,
+    "Long": -13.1190502749
+  },
+  {
+    "adminName": "Labe",
+    "adminPcod": "GN06",
+    "Lat": 11.7522937371,
+    "Long": -12.015337587
+  },
+  {
+    "adminName": "Mamou",
+    "adminPcod": "GN07",
+    "Lat": 10.669773173,
+    "Long": -12.0738731441
+  },
+  {
+    "adminName": "Nzerekore",
+    "adminPcod": "GN08",
+    "Lat": 8.44128376114,
+    "Long": -8.89190821419
+  },
+  {
+    "adminName": "Bafata",
+    "adminPcod": "GW01",
+    "Lat": 12.1614948521,
+    "Long": -14.7072633279
+  },
+  {
+    "adminName": "Biombo",
+    "adminPcod": "GW02",
+    "Lat": 11.8830226206,
+    "Long": -15.7856330297
+  },
+  {
+    "adminName": "Bissau",
+    "adminPcod": "GW08",
+    "Lat": 11.8753802556,
+    "Long": -15.6102334856
+  },
+  {
+    "adminName": "Bolama/Bijagos",
+    "adminPcod": "GW03",
+    "Lat": 11.3340677886,
+    "Long": -15.9697536928
+  },
+  {
+    "adminName": "Cacheu",
+    "adminPcod": "GW04",
+    "Lat": 12.1917009698,
+    "Long": -16.0503347234
+  },
+  {
+    "adminName": "Gabu",
+    "adminPcod": "GW05",
+    "Lat": 12.1630815323,
+    "Long": -14.1099414841
+  },
+  {
+    "adminName": "Oio",
+    "adminPcod": "GW06",
+    "Lat": 12.2855998645,
+    "Long": -15.2704215901
+  },
+  {
+    "adminName": "Quinara",
+    "adminPcod": "GW07",
+    "Lat": 11.6649286769,
+    "Long": -15.1789574668
+  },
+  {
+    "adminName": "Tombali",
+    "adminPcod": "GW09",
+    "Lat": 11.3284229132,
+    "Long": -14.9924611583
+  },
+  {
+    "adminName": "Bomi",
+    "adminPcod": "LR01",
+    "Lat": 6.73212420367,
+    "Long": -10.811475994
+  },
+  {
+    "adminName": "Bong",
+    "adminPcod": "LR02",
+    "Lat": 6.94245546745,
+    "Long": -9.64677657028
+  },
+  {
+    "adminName": "Gbarpolu",
+    "adminPcod": "LR03",
+    "Lat": 7.41773037036,
+    "Long": -10.3106225798
+  },
+  {
+    "adminName": "Grand Bassa",
+    "adminPcod": "LR04",
+    "Lat": 6.22820727315,
+    "Long": -9.8113982937
+  },
+  {
+    "adminName": "Grand Cape Mount",
+    "adminPcod": "LR05",
+    "Lat": 7.08066516896,
+    "Long": -11.0504886514
+  },
+  {
+    "adminName": "Grand Gedeh",
+    "adminPcod": "LR06",
+    "Lat": 5.95678723644,
+    "Long": -8.22946242485
+  },
+  {
+    "adminName": "Grand Kru",
+    "adminPcod": "LR07",
+    "Lat": 4.79834062262,
+    "Long": -8.20300529746
+  },
+  {
+    "adminName": "Lofa",
+    "adminPcod": "LR08",
+    "Lat": 7.99376123419,
+    "Long": -9.85751535825
+  },
+  {
+    "adminName": "Margibi",
+    "adminPcod": "LR09",
+    "Lat": 6.51599265534,
+    "Long": -10.2735036001
+  },
+  {
+    "adminName": "Maryland",
+    "adminPcod": "LR10",
+    "Lat": 4.72564159488,
+    "Long": -7.77241284528
+  },
+  {
+    "adminName": "Montserrado",
+    "adminPcod": "LR11",
+    "Lat": 6.51512742389,
+    "Long": -10.5978053361
+  },
+  {
+    "adminName": "Nimba",
+    "adminPcod": "LR12",
+    "Lat": 6.82616724352,
+    "Long": -8.77758367974
+  },
+  {
+    "adminName": "River Gee",
+    "adminPcod": "LR13",
+    "Lat": 5.2735339921,
+    "Long": -7.80731635856
+  },
+  {
+    "adminName": "Rivercess",
+    "adminPcod": "LR14",
+    "Lat": 5.85513323321,
+    "Long": -9.37632347025
+  },
+  {
+    "adminName": "Sinoe",
+    "adminPcod": "LR15",
+    "Lat": 5.34556274253,
+    "Long": -8.75805201109
+  },
+  {
+    "adminName": "Bamako",
+    "adminPcod": "ML09",
+    "Lat": 12.6091929717,
+    "Long": -7.98000665728
+  },
+  {
+    "adminName": "Gao",
+    "adminPcod": "ML07",
+    "Lat": 16.7722699261,
+    "Long": 1.31033929172
+  },
+  {
+    "adminName": "Kayes",
+    "adminPcod": "ML01",
+    "Lat": 13.8764873827,
+    "Long": -10.2321529604
+  },
+  {
+    "adminName": "Kidal",
+    "adminPcod": "ML08",
+    "Lat": 19.4660951108,
+    "Long": 1.10236661153
+  },
+  {
+    "adminName": "Koulikoro",
+    "adminPcod": "ML02",
+    "Lat": 13.6240796975,
+    "Long": -7.64481599017
+  },
+  {
+    "adminName": "Mopti",
+    "adminPcod": "ML05",
+    "Lat": 14.6907474478,
+    "Long": -3.54469159784
+  },
+  {
+    "adminName": "Segou",
+    "adminPcod": "ML04",
+    "Lat": 13.8090116812,
+    "Long": -5.70086697183
+  },
+  {
+    "adminName": "Sikasso",
+    "adminPcod": "ML03",
+    "Lat": 11.4288457256,
+    "Long": -6.55478678039
+  },
+  {
+    "adminName": "Tombouctou",
+    "adminPcod": "ML06",
+    "Lat": 20.0623664862,
+    "Long": -3.59483084067
+  },
+  {
+    "adminName": "Adrar",
+    "adminPcod": "MR01",
+    "Lat": 21.050869321,
+    "Long": -10.1239146571
+  },
+  {
+    "adminName": "Assaba",
+    "adminPcod": "MR02",
+    "Lat": 16.5810051782,
+    "Long": -11.5373099195
+  },
+  {
+    "adminName": "Brakna",
+    "adminPcod": "MR03",
+    "Lat": 17.2498719579,
+    "Long": -13.4055530322
+  },
+  {
+    "adminName": "Dakhlet-Nouadhibou",
+    "adminPcod": "MR04",
+    "Lat": 20.5869955562,
+    "Long": -15.6121879327
+  },
+  {
+    "adminName": "Gorgol",
+    "adminPcod": "MR05",
+    "Lat": 16.0115608897,
+    "Long": -12.8376714651
+  },
+  {
+    "adminName": "Guidimakha",
+    "adminPcod": "MR06",
+    "Lat": 15.3721602161,
+    "Long": -12.1365784943
+  },
+  {
+    "adminName": "Hodh Ech Chargi",
+    "adminPcod": "MR07",
+    "Lat": 18.1695427301,
+    "Long": -7.0630450325
+  },
+  {
+    "adminName": "Hodh El Gharbi",
+    "adminPcod": "MR08",
+    "Lat": 16.5732308476,
+    "Long": -9.83069468801
+  },
+  {
+    "adminName": "Inchiri",
+    "adminPcod": "MR09",
+    "Lat": 19.6784625458,
+    "Long": -14.9536271292
+  },
+  {
+    "adminName": "Nouakchott",
+    "adminPcod": "MR10",
+    "Lat": 18.1597569075,
+    "Long": -15.9548527808
+  },
+  {
+    "adminName": "Tagant",
+    "adminPcod": "MR11",
+    "Lat": 18.5912264343,
+    "Long": -10.3255242939
+  },
+  {
+    "adminName": "Tiris-Zemmour",
+    "adminPcod": "MR12",
+    "Lat": 24.2158521018,
+    "Long": -9.68747135512
+  },
+  {
+    "adminName": "Trarza",
+    "adminPcod": "MR13",
+    "Lat": 17.8862957371,
+    "Long": -14.7960938496
+  },
+  {
+    "adminName": "Agadez",
+    "adminPcod": "NE01",
+    "Lat": 19.4943788233,
+    "Long": 10.5231310152
+  },
+  {
+    "adminName": "Diffa",
+    "adminPcod": "NE02",
+    "Lat": 15.8663397102,
+    "Long": 13.217387664
+  },
+  {
+    "adminName": "Dosso",
+    "adminPcod": "NE03",
+    "Lat": 13.1944571102,
+    "Long": 3.54233040822
+  },
+  {
+    "adminName": "Maradi",
+    "adminPcod": "NE04",
+    "Lat": 14.11350159,
+    "Long": 7.30819290468
+  },
+  {
+    "adminName": "Niamey",
+    "adminPcod": "NE08",
+    "Lat": 13.5283402305,
+    "Long": 2.10605075514
+  },
+  {
+    "adminName": "Tahoua",
+    "adminPcod": "NE05",
+    "Lat": 15.7717781177,
+    "Long": 5.24738103071
+  },
+  {
+    "adminName": "Tillab?®ri",
+    "adminPcod": "NE06",
+    "Lat": 14.1857369597,
+    "Long": 2.19070977863
+  },
+  {
+    "adminName": "Zinder",
+    "adminPcod": "NE07",
+    "Lat": 14.9938360978,
+    "Long": 10.0396772189
+  },
+  {
+    "adminName": "Abia",
+    "adminPcod": "NG01",
+    "Lat": 5.453302119,
+    "Long": 7.52318999962
+  },
+  {
+    "adminName": "Adamawa",
+    "adminPcod": "NG02",
+    "Lat": 9.32348820492,
+    "Long": 12.4001513132
+  },
+  {
+    "adminName": "Akwa Ibom",
+    "adminPcod": "NG03",
+    "Lat": 4.90664313387,
+    "Long": 7.84736625955
+  },
+  {
+    "adminName": "Anambra",
+    "adminPcod": "NG04",
+    "Lat": 6.22277587521,
+    "Long": 6.9321861162
+  },
+  {
+    "adminName": "Bauchi",
+    "adminPcod": "NG05",
+    "Lat": 10.7966471647,
+    "Long": 9.99058823496
+  },
+  {
+    "adminName": "Bayelsa",
+    "adminPcod": "NG06",
+    "Lat": 4.76631538954,
+    "Long": 6.08041773509
+  },
+  {
+    "adminName": "Benue",
+    "adminPcod": "NG07",
+    "Lat": 7.34111621334,
+    "Long": 8.75188119256
+  },
+  {
+    "adminName": "Borno",
+    "adminPcod": "NG08",
+    "Lat": 11.8895693353,
+    "Long": 13.1523216582
+  },
+  {
+    "adminName": "Cross River",
+    "adminPcod": "NG09",
+    "Lat": 5.87417451055,
+    "Long": 8.60000160259
+  },
+  {
+    "adminName": "Delta",
+    "adminPcod": "NG10",
+    "Lat": 5.70489823347,
+    "Long": 5.93692967776
+  },
+  {
+    "adminName": "Ebonyi",
+    "adminPcod": "NG11",
+    "Lat": 6.26202724906,
+    "Long": 8.01626627287
+  },
+  {
+    "adminName": "Edo",
+    "adminPcod": "NG12",
+    "Lat": 6.63353726363,
+    "Long": 5.93021473322
+  },
+  {
+    "adminName": "Ekiti",
+    "adminPcod": "NG13",
+    "Lat": 7.72008039629,
+    "Long": 5.30951562435
+  },
+  {
+    "adminName": "Enugu",
+    "adminPcod": "NG14",
+    "Lat": 6.53624489499,
+    "Long": 7.44061117996
+  },
+  {
+    "adminName": "Federal Capital Territory",
+    "adminPcod": "NG15",
+    "Lat": 8.89761724564,
+    "Long": 7.19555721879
+  },
+  {
+    "adminName": "Gombe",
+    "adminPcod": "NG16",
+    "Lat": 10.383587852,
+    "Long": 11.1919951374
+  },
+  {
+    "adminName": "Imo",
+    "adminPcod": "NG17",
+    "Lat": 5.57302001906,
+    "Long": 7.0623076174
+  },
+  {
+    "adminName": "Jigawa",
+    "adminPcod": "NG18",
+    "Lat": 12.2384758291,
+    "Long": 9.56353314554
+  },
+  {
+    "adminName": "Kaduna",
+    "adminPcod": "NG19",
+    "Lat": 10.3923670086,
+    "Long": 7.70597856166
+  },
+  {
+    "adminName": "Kano",
+    "adminPcod": "NG20",
+    "Lat": 11.7452019343,
+    "Long": 8.52955718691
+  },
+  {
+    "adminName": "Katsina",
+    "adminPcod": "NG21",
+    "Lat": 12.3809131914,
+    "Long": 7.62933264329
+  },
+  {
+    "adminName": "Kebbi",
+    "adminPcod": "NG22",
+    "Lat": 11.7449850601,
+    "Long": 4.52131292445
+  },
+  {
+    "adminName": "Kogi",
+    "adminPcod": "NG23",
+    "Lat": 7.73660788055,
+    "Long": 6.68675437771
+  },
+  {
+    "adminName": "Kwara",
+    "adminPcod": "NG24",
+    "Lat": 8.96596273359,
+    "Long": 4.3851430616
+  },
+  {
+    "adminName": "Lagos",
+    "adminPcod": "NG25",
+    "Lat": 6.52305287389,
+    "Long": 3.59319266371
+  },
+  {
+    "adminName": "Nasarawa",
+    "adminPcod": "NG26",
+    "Lat": 8.51044734977,
+    "Long": 8.19796256962
+  },
+  {
+    "adminName": "Niger",
+    "adminPcod": "NG27",
+    "Lat": 9.93324018129,
+    "Long": 5.59037937801
+  },
+  {
+    "adminName": "Ogun",
+    "adminPcod": "NG28",
+    "Lat": 6.99638189211,
+    "Long": 3.47652899262
+  },
+  {
+    "adminName": "Ondo",
+    "adminPcod": "NG29",
+    "Lat": 6.91799534041,
+    "Long": 5.15060933985
+  },
+  {
+    "adminName": "Osun",
+    "adminPcod": "NG30",
+    "Lat": 7.56291850518,
+    "Long": 4.51776244778
+  },
+  {
+    "adminName": "Oyo",
+    "adminPcod": "NG31",
+    "Lat": 8.15888029259,
+    "Long": 3.61328280506
+  },
+  {
+    "adminName": "Plateau",
+    "adminPcod": "NG32",
+    "Lat": 9.23241615098,
+    "Long": 9.51204950618
+  },
+  {
+    "adminName": "Rivers",
+    "adminPcod": "NG33",
+    "Lat": 4.8453923139,
+    "Long": 6.91818148749
+  },
+  {
+    "adminName": "Sokoto",
+    "adminPcod": "NG34",
+    "Lat": 13.0380917522,
+    "Long": 5.31896892897
+  },
+  {
+    "adminName": "Taraba",
+    "adminPcod": "NG35",
+    "Lat": 8.02320135166,
+    "Long": 10.786489708
+  },
+  {
+    "adminName": "Yobe",
+    "adminPcod": "NG36",
+    "Lat": 12.2988258917,
+    "Long": 11.4369670885
+  },
+  {
+    "adminName": "Zamfara",
+    "adminPcod": "NG37",
+    "Lat": 12.1015234805,
+    "Long": 6.24654736887
+  },
+  {
+    "adminName": "Bouenza",
+    "adminPcod": "CG01",
+    "Lat": -4.07678474582,
+    "Long": 13.560763767
+  },
+  {
+    "adminName": "Brazzaville",
+    "adminPcod": "CG02",
+    "Lat": -4.24077340857,
+    "Long": 15.2584439291
+  },
+  {
+    "adminName": "Cuvette",
+    "adminPcod": "CG03",
+    "Lat": -0.45405235044,
+    "Long": 16.3021434522
+  },
+  {
+    "adminName": "Cuvette-Ouest",
+    "adminPcod": "CG04",
+    "Lat": -0.20805258936,
+    "Long": 14.646086168
+  },
+  {
+    "adminName": "Kouilou",
+    "adminPcod": "CG05",
+    "Lat": -4.2248294818,
+    "Long": 11.9463819443
+  },
+  {
+    "adminName": "Lekoumou",
+    "adminPcod": "CG06",
+    "Lat": -3.10701191507,
+    "Long": 13.510436315
+  },
+  {
+    "adminName": "Likouala",
+    "adminPcod": "CG07",
+    "Lat": 2.07612085339,
+    "Long": 17.4514202358
+  },
+  {
+    "adminName": "Niari",
+    "adminPcod": "CG08",
+    "Lat": -3.13969924073,
+    "Long": 12.5119725596
+  },
+  {
+    "adminName": "Plateaux",
+    "adminPcod": "CG09",
+    "Lat": -2.10888053921,
+    "Long": 15.3870724074
+  },
+  {
+    "adminName": "Point-Noire",
+    "adminPcod": "CG10",
+    "Lat": -4.79129405917,
+    "Long": 11.894479389
+  },
+  {
+    "adminName": "Pool",
+    "adminPcod": "CG11",
+    "Lat": -3.69359187417,
+    "Long": 15.0262704144
+  },
+  {
+    "adminName": "Sangha",
+    "adminPcod": "CG12",
+    "Lat": 1.37379841676,
+    "Long": 15.3617536661
+  },
+  {
+    "adminName": "Principe",
+    "adminPcod": "ST01",
+    "Lat": 1.61453875906,
+    "Long": 7.39692845249
+  },
+  {
+    "adminName": "Sao Tome",
+    "adminPcod": "ST02",
+    "Lat": 0.23828834353,
+    "Long": 6.60204205949
+  },
+  {
+    "adminName": "Dakar",
+    "adminPcod": "SN01",
+    "Lat": 14.7567716957,
+    "Long": -17.2739939532
+  },
+  {
+    "adminName": "Diourbel",
+    "adminPcod": "SN02",
+    "Lat": 14.7784469964,
+    "Long": -16.1127554246
+  },
+  {
+    "adminName": "Fatick",
+    "adminPcod": "SN03",
+    "Lat": 14.1601641033,
+    "Long": -16.3303662669
+  },
+  {
+    "adminName": "Kaffrine",
+    "adminPcod": "SN04",
+    "Lat": 14.2058832547,
+    "Long": -15.1809254272
+  },
+  {
+    "adminName": "Kaolack",
+    "adminPcod": "SN05",
+    "Lat": 13.9631964602,
+    "Long": -15.9330363117
+  },
+  {
+    "adminName": "Kedougou",
+    "adminPcod": "SN06",
+    "Lat": 12.8385671846,
+    "Long": -12.2023375545
+  },
+  {
+    "adminName": "Kolda",
+    "adminPcod": "SN07",
+    "Lat": 13.0283931917,
+    "Long": -14.417462047
+  },
+  {
+    "adminName": "Louga",
+    "adminPcod": "SN08",
+    "Lat": 15.4226020278,
+    "Long": -15.5255644706
+  },
+  {
+    "adminName": "Matam",
+    "adminPcod": "SN09",
+    "Lat": 15.1491982539,
+    "Long": -13.7295941627
+  },
+  {
+    "adminName": "Saint Louis",
+    "adminPcod": "SN10",
+    "Lat": 16.2100358037,
+    "Long": -15.0321099443
+  },
+  {
+    "adminName": "Sedhiou",
+    "adminPcod": "SN11",
+    "Lat": 12.8890542232,
+    "Long": -15.5856489472
+  },
+  {
+    "adminName": "Tambacounda",
+    "adminPcod": "SN12",
+    "Lat": 13.8834447035,
+    "Long": -13.2259441726
+  },
+  {
+    "adminName": "Thies",
+    "adminPcod": "SN13",
+    "Lat": 14.8194060228,
+    "Long": -16.757260339
+  },
+  {
+    "adminName": "Ziguinchor",
+    "adminPcod": "SN14",
+    "Lat": 12.7753338848,
+    "Long": -16.3768190816
+  },
+  {
+    "adminName": "Eastern",
+    "adminPcod": "SL01",
+    "Lat": 8.23875222933,
+    "Long": -10.9815819173
+  },
+  {
+    "adminName": "Northern",
+    "adminPcod": "SL02",
+    "Lat": 9.13869294422,
+    "Long": -11.9807530956
+  },
+  {
+    "adminName": "Southern",
+    "adminPcod": "SL03",
+    "Lat": 7.78058173836,
+    "Long": -12.0320412268
+  },
+  {
+    "adminName": "Western",
+    "adminPcod": "SL04",
+    "Lat": 8.33778105575,
+    "Long": -13.1114285088
+  },
+  {
+    "adminName": "Centrale",
+    "adminPcod": "TG01",
+    "Lat": 8.62644678609,
+    "Long": 1.06884505855
+  },
+  {
+    "adminName": "Kara",
+    "adminPcod": "TG02",
+    "Lat": 9.60513309622,
+    "Long": 0.87052966901
+  },
+  {
+    "adminName": "Maritime",
+    "adminPcod": "TG03",
+    "Lat": 6.49727856036,
+    "Long": 1.27804225025
+  },
+  {
+    "adminName": "Plateaux",
+    "adminPcod": "TG04",
+    "Lat": 7.45363696407,
+    "Long": 1.13203907604
+  },
+  {
+    "adminName": "Savanes",
+    "adminPcod": "TG05",
+    "Lat": 10.5926013158,
+    "Long": 0.44881334736
+  }
+]
