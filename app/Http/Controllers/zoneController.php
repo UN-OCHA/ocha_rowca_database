@@ -126,6 +126,7 @@ class zoneController extends Controller
 
     public function show_view_filterV2($category,$items,$periodFrom,$periodTo,$adminLevel)
     {
+        // dd($category);
         $countriesList = array();
         $dataByZone = array();
         $dateFrom = $periodFrom."-01-01";
@@ -137,19 +138,23 @@ class zoneController extends Controller
             $crisisList = ["WCA"];
             $countriesList = explode("_", $items);
         }
-        
+        // dd($crisisList);
         $zones = DB::table('zones')->whereIn('zone_code', $crisisList)->orderBy('zone_name', 'asc')->get();
 
+        // dd($countriesList);
 
         if($category=="crisis"){
             foreach ($zones as $zone) {
                 $liste_localites = DB::table('liste_localites')->where('zone_id', '=', $zone->zone_id)->get();
+                // dd($liste_localites);
                 $keyfigure_caseloads =  DB::table('caseloads_by_regions')->where('zone_id', '=', $zone->zone_id)->whereBetween('caseload_date', [$dateFrom, $dateTo])->orderBy('caseload_date', 'asc')->get();
+                // dd($keyfigure_caseloads);
                 $keyfigure_displacements = DB::table('displacements_by_regions')->where('zone_id', '=', $zone->zone_id)->whereBetween('dis_date', [$dateFrom, $dateTo])->orderBy('dis_date', 'asc')->get();
                 $keyfigure_cadre_harmonises = DB::table('cadre_harmonises_by_regions')->where('zone_id', '=', $zone->zone_id)->whereBetween('ch_date', [$dateFrom, $dateTo])->orderBy('ch_date', 'asc')->get();
                 $keyfigure_nutritions = DB::table('nutrition_by_regions')->where('zone_id', '=', $zone->zone_id)->whereBetween('nut_date', [$dateFrom, $dateTo])->orderBy('nut_date', 'asc')->get();
     
                 $dataZone=array("zone"=>$zone,"adminLevel"=>$adminLevel,"localites"=>$liste_localites,"caseloads"=>$keyfigure_caseloads,"displacements"=>$keyfigure_displacements,"cadre_harmonises"=>$keyfigure_cadre_harmonises,"nutrition"=>$keyfigure_nutritions);
+                dd($dataZone);
                 array_push($dataByZone,$dataZone);
             }
         }else{
